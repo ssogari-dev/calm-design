@@ -7,10 +7,7 @@
     "name": "calmtiger",
     "url": "https://threads.net/@calmtiger_"
   },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/calmtiger86/calm-design"
-  },
+  "repository": "https://github.com/calmtiger86/calm-design",
   "license": "MIT",
   "keywords": [
     "design",
@@ -29,13 +26,7 @@
     "development",
     "productivity"
   ],
-  "skills": [
-    {
-      "name": "calm-design",
-      "path": "SKILL.md",
-      "description": "차분하고 정제된 디자인 생성"
-    }
-  ],
+  "skills": "./",
   "triggers": [
     "디자인 만들어줘",
     "랜딩페이지",
